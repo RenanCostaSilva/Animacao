@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Animacao</string>
+
+
+    <!-- Label TextView -->
+    <string name="texto_animacao">Teste de animação</string>
+    <string name="texto_resultado">Resultado </string>
+    <!-- Fim Label TextView -->
+
+
+    <!-- Label Buttons -->
+    <string name="texto_btn_animacao_fadein">Fade In</string>
+    <string name="texto_btn_animacao_fadeout">Fade Out</string>
+
+    <string name="texto_btn_animacao_zoomin">Zoom    In</string>
+    <string name="texto_btn_animacao_zoomout">Zoom Out</string>
+
+    <string name="texto_btn_animacao_slideup">Slide   Up</string>
+    <string name="texto_btn_animacao_slidedown">Slide Down</string>
+
+    <string name="texto_btn_animacao_bounce">Bounce</string>
+    <string name="texto_btn_animacao_rotate">Rotate</string>
+
+    <string name="texto_btn_animacao_transicao_a_esquerda">transicao esquerda</string>
+    <string name="texto_btn_animacao_transicao_a_direita">transicao direita</string>
+    <string name="texto_btn_animacao_transicao_devagar">transicao devagar</string>
+    <!-- Fim Label Buttons -->
+
+
+</resources>
