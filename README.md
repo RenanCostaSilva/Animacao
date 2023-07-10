@@ -1,5 +1,5 @@
 # Animacao
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RenanCostaSilva/Camera2/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RenanCostaSilva/Animacao/blob/main/LICENSE)
 
 
 # Sobre o aplicativo
