@@ -6,14 +6,7 @@
 Exemplo de App em kotlin , usando animação 
 
 ## Imagens da Aplicação
-![mobile 1](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/1.png)
-![mobile 2](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/2.png)
-![mobile 3](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/3.png)
-![mobile 4](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/4.png)
-![mobile 5](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/5.png)
-![mobile 6](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/6.png)
-![mobile 7](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/7.png)
-![mobile 8](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/8.png)
+![mobile 1](https://github.com/RenanCostaSilva/Animacao/blob/master/imagem1.png)
 
 ## SDK
 minSdk: 24 / alvo: 33
