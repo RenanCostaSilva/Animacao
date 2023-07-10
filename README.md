@@ -1,5 +1,5 @@
 # Animacao
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RenanCostaSilva/Animacao/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RenanCostaSilva/Animacao/blob/master/LICENSE)
 
 
 # Sobre o aplicativo
